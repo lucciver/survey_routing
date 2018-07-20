@@ -43,7 +43,7 @@ class DataProblem():
         self._vehicle = Vehicle()
         #self._num_vehicles = 2
 
-        self._depot = 3
+        self._depot = 0
 
         self._req_vehicles = 0
 
